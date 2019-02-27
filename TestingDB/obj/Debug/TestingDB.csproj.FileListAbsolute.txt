@@ -1,0 +1,9 @@
+C:\GrapeCity\TestingDB\TestingDB\TestingDB\bin\Debug\TestingDB.exe.config
+C:\GrapeCity\TestingDB\TestingDB\TestingDB\bin\Debug\TestingDB.exe
+C:\GrapeCity\TestingDB\TestingDB\TestingDB\bin\Debug\TestingDB.pdb
+C:\GrapeCity\TestingDB\TestingDB\TestingDB\obj\Debug\TestingDB.csprojResolveAssemblyReference.cache
+C:\GrapeCity\TestingDB\TestingDB\TestingDB\obj\Debug\TestingDB.Main.resources
+C:\GrapeCity\TestingDB\TestingDB\TestingDB\obj\Debug\TestingDB.Properties.Resources.resources
+C:\GrapeCity\TestingDB\TestingDB\TestingDB\obj\Debug\TestingDB.csproj.GenerateResource.Cache
+C:\GrapeCity\TestingDB\TestingDB\TestingDB\obj\Debug\TestingDB.exe
+C:\GrapeCity\TestingDB\TestingDB\TestingDB\obj\Debug\TestingDB.pdb

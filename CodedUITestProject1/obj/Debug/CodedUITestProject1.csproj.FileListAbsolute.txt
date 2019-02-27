@@ -1,0 +1,7 @@
+C:\GrapeCity\TestingDB\TestingDB\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+C:\GrapeCity\TestingDB\TestingDB\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+C:\GrapeCity\TestingDB\TestingDB\CodedUITestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GrapeCity\TestingDB\TestingDB\CodedUITestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\GrapeCity\TestingDB\TestingDB\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojResolveAssemblyReference.cache
+C:\GrapeCity\TestingDB\TestingDB\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+C:\GrapeCity\TestingDB\TestingDB\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb
